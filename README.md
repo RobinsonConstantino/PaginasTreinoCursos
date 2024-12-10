@@ -6,7 +6,7 @@ Atualização: 10/Dez/2024
 
 https://robinsonconstantino.github.io/javascript/aula12ex/ex15/
 
-<https://robinsonconstantino.github.io/javascript/aula12ex/ex14/index.html
+https://robinsonconstantino.github.io/javascript/aula12ex/ex14/index.html
 
 https://robinsonconstantino.github.io/javascript/d1/
 
